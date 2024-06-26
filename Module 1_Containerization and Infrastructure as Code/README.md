@@ -30,6 +30,6 @@ A container is a lightweight, portable, and self-sufficient unit that encapsulat
 > - Isolation
 > - Portability
 
-![run docker](2_docker_sql/img/docker_image_lsrun-docker.PNG)
+![run docker](2_docker_sql/img/run-docker.PNG)
 
 ## Run Postgre in Docker
