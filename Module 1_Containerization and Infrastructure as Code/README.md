@@ -1,6 +1,6 @@
 # Week 1
 
-## Docker & Postgre SQL
+## Introduction to Docker
 
 ### Simple docker pipeline example
 With the [Dockerfile](2_docker_sql/Dockerfile) and [pipeline script](2_docker_sql/pipeline.py) in this directory, build and run the container with the following commands.
